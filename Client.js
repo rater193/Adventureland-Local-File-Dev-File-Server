@@ -4,6 +4,9 @@
     Description:
         This is a fileserver client to execute files from a fileserver in nodejs
         on the client, so you can use vs code to edit and execute code.
+
+    Fileserver source:
+        https://github.com/rater193/Adventureland-Local-File-Dev-File-Server
 */
 
 //CONFIG
