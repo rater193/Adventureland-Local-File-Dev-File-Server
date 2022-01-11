@@ -27,10 +27,10 @@ And you are done! now you can edit the files directly from the server!
 
 
 # How to edit your code?
-- The default file that gets ran without configuring the Client.js source, is inside `"client/startup.js"`.
+- The default file that gets ran without configuring the Client.js source, is inside <a href="https://github.com/rater193/Adventureland-Local-File-Dev-File-Server/blob/main/client/startup.js">"client/startup.js"</a>.
 - There you will find a full example of how it works and how to use other libraries
 - I also included some of my own personal bot code you can reference as well
- - `"client/basicAttack.js"`
- - `"client/RatMage.js"`
- - `"client/RatRanger.js"`
- - `"client/RatRanger2.js"`
+ - <a href="https://github.com/rater193/Adventureland-Local-File-Dev-File-Server/blob/main/client/basicAttack.js">"client/basicAttack.js"</a>
+ - <a href="https://github.com/rater193/Adventureland-Local-File-Dev-File-Server/blob/main/client/RatMage.js">"client/RatMage.js"`</a>
+ - <a href="https://github.com/rater193/Adventureland-Local-File-Dev-File-Server/blob/main/client/RatRanger.js">"client/RatRanger.js"`</a>
+ - <a href="https://github.com/rater193/Adventureland-Local-File-Dev-File-Server/blob/main/client/RatRanger2.js">"client/RatRanger2.js"`</a>
